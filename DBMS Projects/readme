@@ -1,1 +1,9 @@
-readme
+Car Sales Database System
+This is a database system for car sale and services. Each car being sold needs to be entered into the database . The database has a base of sqllite and python. The database is hosted on local host via streamlit library in python
+This database system have 4 main functions : 
+•	Insert operation : Putting the data into the database ( Car Number plate, Owner name, Model name, Model cost and service cost.
+ 
+•	Update operation: To update the database of a preexisting number plate. It uses the number plate as primary key and performs the operation.
+ 
+•	Delete: To delete any entity in the database with the corresponding number plate.  
+•	Display: To display the database.  
